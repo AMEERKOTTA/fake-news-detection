@@ -8,3 +8,6 @@ Model to Classify News thread REAL or FAKE
 5. Train and Predict the Model.
 6. Evaluate the Model Perfomance.
 7. Reach a Conclusion.
+
+
+Dataset Link : https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view
